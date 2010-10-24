@@ -1,0 +1,16 @@
+*.o
+Makefile
+.deps
+
+# /
+/libvex*.a
+/TAG_*
+
+# /auxprogs/
+/auxprogs/genoffsets
+
+# /pub/
+/pub/libvex_guest_offsets.h
+
+# /switchback/
+/switchback/switchback
